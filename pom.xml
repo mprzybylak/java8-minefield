@@ -22,5 +22,7 @@
 	</build>
 	<modules>
 		<module>beahviorParametrization</module>
+		<module>lambdas</module>
+		<module>stream</module>
 	</modules>
 </project>
