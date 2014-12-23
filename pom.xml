@@ -24,5 +24,6 @@
 		<module>beahviorParametrization</module>
 		<module>lambdas</module>
 		<module>stream</module>
+		<module>optionals</module>
 	</modules>
 </project>
